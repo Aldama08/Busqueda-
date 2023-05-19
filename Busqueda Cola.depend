@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1679727224 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\busqueda cola\constancia.cpp
+	"Constancia.h"
+
+1679727248 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\busqueda cola\constancia.h
+	<iostream>
+
+1679727317 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\busqueda cola\main.cpp
+	<iostream>
+	"Cola.h"
+	"Constancia.h"
+
+1679727195 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\busqueda cola\cola.h
+	<iostream>
+	"Constancia.h"
+
